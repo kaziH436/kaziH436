@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">
+Hi, I'm Kazi! 👋
+</h1>
+<h1 align="center">
+Computer Science Enthusiast at CUNY Queens College
+</h1>
 
-<!--
-**kaziH436/kaziH436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I’ve honed my skills in frontend development (JavaScript, React, TypeScript), backend technologies (Node.js, Express.js, Flask), and mobile app development (Kotlin). My expertise also extends to AI/ML, and teaching CS concepts (HTML,CSS and JavaScript) to empower underrepresented groups in tech. I am also skilled in C, Python, and Java.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi19/
+
+
+👩‍💻 I'm currently working on my Java GenAI project utlizing OpenCV and deep learning libraries. 
+
+👯‍♀️ I'm looking to collaborate on AI/ Machine learning projects!
+
+📫 How to reach me: kazihossain416@gmail.com
+
+⚡️ Fun fact: With ~2 years of teaching and leadership experience, I’ve developed STEM curriculums, led awareness campaigns and initiated 3 community projects. I thrive in collaborative, fast-paced environments, tackling challenges with creativity and innovation. 
+
