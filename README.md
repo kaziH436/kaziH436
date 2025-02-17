@@ -5,6 +5,9 @@ Hi, I'm Kazi! 👋
 Computer Science Enthusiast at CUNY Queens College
 </h1>
 
+![Profile Views](https://komarev.com/ghpvc/?username=kazih436&color=blueviolet)
+
+
 ## 🚀 About Me
 I’ve honed my skills in frontend development (JavaScript, React, TypeScript), backend technologies (Node.js, Express.js, Flask), and mobile app development (Kotlin). My expertise also extends to AI/ML, and teaching CS concepts (HTML,CSS and JavaScript) to empower underrepresented groups in tech. I am also skilled in C, Python, and Java.
 
