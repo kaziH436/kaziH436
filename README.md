@@ -11,6 +11,8 @@ I’ve honed my skills in frontend development (JavaScript, React, TypeScript), 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi19/)
+![Static Badge](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)
+
 
 👩‍💻 I'm currently working on my Java GenAI project utlizing OpenCV and deep learning libraries. 
 
