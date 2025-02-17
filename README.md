@@ -36,7 +36,7 @@ I’ve honed my skills in frontend development (JavaScript, React, TypeScript), 
 ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoSize=auto&labelColor=black)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazih436&show_icons=true&locale=en)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kazih436&theme=dark)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazih436&show_icons=true&locale=en)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazih436&layout=compact)
 
