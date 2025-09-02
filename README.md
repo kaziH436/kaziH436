@@ -17,9 +17,9 @@ I’ve honed my skills in frontend development (JavaScript, React, TypeScript), 
 ![Static Badge](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)
 
 
-👩‍💻 I'm currently working on my Java GenAI project utlizing OpenCV and deep learning libraries. 
+👩‍💻 I'm currently working on my Python GenAI project utlizing OpenCV and deep learning libraries. I am also working on [EchoTwin](https://echo-twin.vercel.app/), an AI-powered knowledge sharing platform for employers to centralize critical information and reduce knowledge loss.
 
-👯‍♀️ I'm looking to collaborate on AI/ Machine learning projects!
+👯‍♀️ I'm looking to collaborate on AI/Machine learning projects!
 
 📫 How to reach me: kazihossain416@gmail.com
 
