@@ -63,7 +63,7 @@ I’ve honed my skills in frontend development (JavaScript, React, TypeScript), 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![GitHub stats](https://github-readme-stats-ggdp9u51m-kazihossain416-6571s-projects.vercel.app/api?username=kaziH436&show_icons=true&theme=dark&count_private=true&hide=stars&v=1)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaziH436&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazih436&layout=compact)
 
