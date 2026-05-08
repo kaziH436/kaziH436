@@ -9,15 +9,14 @@ Computer Science Enthusiast at CUNY Queens College
 
 
 ## 🚀 About Me
-I’ve honed my skills in frontend development (JavaScript, React, TypeScript), backend technologies (Node.js, Express.js, Flask), and mobile app development (Kotlin). My expertise also extends to AI/ML, and teaching CS concepts (HTML,CSS and JavaScript) to empower underrepresented groups in tech. I am also skilled in C, Python, and Java.
+I’ve honed my skills in frontend development (JavaScript, React, TypeScript), backend technologies (Node.js, Express.js, Flask), and machine learning (BERT, PyTorch, scikit-learn, NumPy, Pandas). My expertise also extends to teaching CS and ML concepts (HTML,CSS, and JavaScript) to empower underrepresented groups in tech. I am also skilled in Python and Java.
 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi19/)
-![Static Badge](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)
 
 
-👩‍💻 I'm currently working on my Python GenAI project utlizing OpenCV and deep learning libraries. I am also working on [EchoTwin](https://echo-twin.vercel.app/), an AI-powered knowledge sharing platform for employers to centralize critical information and reduce knowledge loss.
+👩‍💻 I'm currently working on [EchoTwin](https://echo-twin.vercel.app/), an AI-powered knowledge sharing platform for employers to centralize critical information and reduce knowledge loss.
 
 👯‍♀️ I'm looking to collaborate on AI/Machine learning projects!
 
