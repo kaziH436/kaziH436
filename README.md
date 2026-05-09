@@ -63,9 +63,9 @@ I’ve honed my skills in frontend development (JavaScript, React, TypeScript), 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![GitHub stats](https://github-readme-stats-ggdp9u51m-kazihossain416-6571s-projects.vercel.app/api?username=kaziH436&show_icons=true&theme=dark&count_private=true&hide=stars&include_all_commits=true&v=4)
+![GitHub stats](https://github-readme-stats-ggdp9u51m-kazihossain416-6571s-projects.vercel.app/api?username=kaziH436&show_icons=true&theme=dark&count_private=true&hide=stars&include_all_commits=true&cache_seconds=1800&v=4)
 
-[![Top Languages](https://github-readme-stats-ggdp9u51m-kazihossain416-6571s-projects.vercel.app/api/top-langs/?username=kaziH436&theme=dark&layout=compact&count_private=true&v=4)](https://github.com/kaziH436)
+[![Top Languages](https://github-readme-stats-ggdp9u51m-kazihossain416-6571s-projects.vercel.app/api/top-langs/?username=kaziH436&theme=dark&layout=compact&count_private=true&cache_seconds=1800&v=4)](https://github.com/kaziH436)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kaziH436&theme=dark&v=2)](https://git.io/streak-stats)
 
